@@ -8,7 +8,7 @@ To get started, follow these steps:
 
 1. **Clone the Repository**: You can clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/advanced-python-problems.git
+   git clone [https://github.com/your-username/advanced-python-problems.git](https://github.com/nikita-s-k/Advance_python.git)
    ```
 
 2. **Install Python**: Make sure you have Python installed on your computer. You can download Python from the official website: [Python.org](https://www.python.org/downloads/).
