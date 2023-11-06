@@ -38,7 +38,6 @@ def search_glob(directory, advance_match):
 # string methods
 
 if __name__ == "__main__":
-    directory = r'C:\Users\autoadmin\Downloads'
 
     # Problem1 : List all the files in given directory
     list_all_files(directory)
